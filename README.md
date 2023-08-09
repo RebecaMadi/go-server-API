@@ -2,7 +2,7 @@
 
 * Sobre o projeto
 
-Esta aplicação é minha primeira API utilizando Go, ela serve uma página web e consegue usar os métodos POSt e GET para guardar e exibir dados. O projeto foi feito como um dos meus desafios semanais para aprimorar os meus conhecimentos em Go e desenvolvimento Web. No deafio foi utilizado p pacote gorilla/mux para o melhor gerenciamento de rotas.
+Esta aplicação é minha primeira API utilizando Go, ela serve uma página web e consegue usar os métodos POSt e GET para guardar e exibir dados. O projeto foi feito como um dos meus desafios semanais para aprimorar os meus conhecimentos em Go e desenvolvimento Web. No desafio foi utilizado p pacote gorilla/mux para o melhor gerenciamento de rotas.
 
 * Aprendizados
 
